@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="SOS_System_Check/SOS_System_Check.vcxproj" Id="bac0fb24-c359-4919-93b2-18e68133a51c" />
+</Solution>
