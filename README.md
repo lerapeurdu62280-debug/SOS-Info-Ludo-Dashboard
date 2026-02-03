@@ -19,7 +19,7 @@
 ## 📸 Aperçu
 
 > *Ici, tu pourras ajouter une capture d'écran de ton logiciel. Pour l'instant, c'est un emplacement réservé.*
-![Dashboard Screenshot](https://via.placeholder.com/800x450.png?text=Capture+d'%C3%A9cran+du+Logiciel+ICI)
+![Dashboard Screenshot](https://ibb.co/wrBsGfsK)
 
 ---
 
