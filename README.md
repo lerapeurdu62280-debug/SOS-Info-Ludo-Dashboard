@@ -18,7 +18,6 @@
 
 ## 📸 Aperçu
 
-> *Ici, tu pourras ajouter une capture d'écran de ton logiciel. Pour l'instant, c'est un emplacement réservé.*
  ![Aperçu du Logiciel](capture.png)
 
 ---
